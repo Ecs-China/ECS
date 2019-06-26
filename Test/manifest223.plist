@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>abb.ecs.app.test223</string>
 				<key>bundle-version</key>
-				<string>1.2.133</string>
+				<string>1.2.134</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ABB_ECS_Test</string>
+				<string>ABB_ECS_Test223</string>
 			</dict>
 		</dict>
 	</array>
